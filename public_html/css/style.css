@@ -4,6 +4,9 @@ body {
 
 nav a {
     color: yellow;
+    border: solid;
+    border-color: black;
+   
 }
 
 #current-link{
@@ -16,5 +19,19 @@ nav a {
 }
 
 img{
-    
+    width: 280px;
+    height: auto;
+}
+
+h1{
+    border: ridge;
+    border-width: 7px;
+    border-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 180px;
+    margin: 1px;
+    margin-left: 50px;
+    margin-right: 650px;
+    margin-top: 7px;
 }
